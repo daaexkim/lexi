@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lexinote/static/css/main.9371ec7f.css",
+    "main.js": "/lexinote/static/js/main.3ea3423a.js",
+    "index.html": "/lexinote/index.html",
+    "main.9371ec7f.css.map": "/lexinote/static/css/main.9371ec7f.css.map",
+    "main.3ea3423a.js.map": "/lexinote/static/js/main.3ea3423a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9371ec7f.css",
+    "static/js/main.3ea3423a.js"
+  ]
+}
